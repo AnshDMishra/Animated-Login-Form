@@ -10,6 +10,8 @@
  <li> Eye-catching neon circulation effects around the border </li>
  <li> A sleek and attractive design to elevate user engagement </li>
  </ol>
- 
+
+ <img src="https://madewithlove.now.sh/in?heart=true&template=plastic" alt="Made with love in India"></img>  
+###### Coded with ❤️ by _Ansh D Mishra_ 
 
  
